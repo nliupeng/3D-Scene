@@ -8,6 +8,6 @@ The project was used to demonstrate different aspects of graphics like texture m
 Added extra functionalities such as full screen, audio incorporated, and frame counter.
 
 Contributors:
-Christine Nguyen
-Cesar Gonzalez
+Christine Nguyen <br>
+Cesar Gonzalez <br>
 Nelly Liu Peng
